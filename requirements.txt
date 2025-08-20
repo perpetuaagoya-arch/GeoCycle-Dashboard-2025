@@ -2,7 +2,5 @@ streamlit
 pandas
 folium
 streamlit-folium
-keplergl
-streamlit-keplergl
 altair
 wordcloud
